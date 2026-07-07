@@ -4,8 +4,8 @@
 
 ## Tools
 
-- [batch content replacement for wps 内容批量替换](./batch%20content%20replacement%20for%20wps%E5%86%85%E5%AE%B9%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2)
-- [ZT项目台账](./ZT%E9%A1%B9%E7%9B%AE%E5%8F%B0%E8%B4%A6)
+- [WPS-Excel-Replace-Tool](./WPS-Excel-Replace-Tool)
+- [Ledgerforge](./Ledgerforge)
 
 ## Version Habit
 
