@@ -1,0 +1,6 @@
+[submodule "batch content replacement for wps内容批量替换"]
+	path = batch content replacement for wps内容批量替换
+	url = https://github.com/Gladys00/WPS-Excel-Replace-Tool.git
+[submodule "ZT项目台账"]
+	path = ZT项目台账
+	url = https://github.com/Gladys00/Ledgerforge.git
